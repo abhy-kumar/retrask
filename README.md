@@ -1,2 +1,3 @@
 # retrask
-flask practice directory
+
+Python Application, made using Flask
