@@ -1,3 +1,3 @@
 # retrask
 
-Python Application, made using Flask
+Python Application for syncing text files, made using Flask.
